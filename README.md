@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first repository.<br>
-Author- Priyanka Kedar
+this is my first repository.
+<br>
+Author- Priyanka (sanjay)
